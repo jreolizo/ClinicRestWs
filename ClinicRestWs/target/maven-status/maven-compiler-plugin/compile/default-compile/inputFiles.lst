@@ -1,0 +1,15 @@
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\service\AppointmentService.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\controller\AppointmentController.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\UpdateAppointmentStatusByIdResp.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\RequestAppointmentResp.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\dao\interfaces\AppointmentDAOInterface.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\dao\AppointmentDAO.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\GetAppointmentByIdResp.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\GetAppointmentByIdReq.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\UpdateAppointmentStatusByIdReq.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\GetAllAppointmentsReq.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\GetAllAppointmentsResp.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\model\Appointment.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\DeleteAppointmentByIdResp.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\RequestAppointmentReq.java
+C:\Users\Myst\git\ClinicRestWs\ClinicRestWs\src\main\java\org\example\clinic\webapp\io\DeleteAppointmentByIdReq.java

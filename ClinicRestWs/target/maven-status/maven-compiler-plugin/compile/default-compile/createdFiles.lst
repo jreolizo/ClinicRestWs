@@ -1,0 +1,15 @@
+org\example\clinic\webapp\dao\interfaces\AppointmentDAOInterface.class
+org\example\clinic\webapp\io\GetAllAppointmentsReq.class
+org\example\clinic\webapp\io\GetAppointmentByIdResp.class
+org\example\clinic\webapp\io\RequestAppointmentReq.class
+org\example\clinic\webapp\dao\AppointmentDAO.class
+org\example\clinic\webapp\io\GetAllAppointmentsResp.class
+org\example\clinic\webapp\controller\AppointmentController.class
+org\example\clinic\webapp\io\RequestAppointmentResp.class
+org\example\clinic\webapp\io\DeleteAppointmentByIdReq.class
+org\example\clinic\webapp\io\UpdateAppointmentStatusByIdReq.class
+org\example\clinic\webapp\io\DeleteAppointmentByIdResp.class
+org\example\clinic\webapp\service\AppointmentService.class
+org\example\clinic\webapp\io\UpdateAppointmentStatusByIdResp.class
+org\example\clinic\webapp\io\GetAppointmentByIdReq.class
+org\example\clinic\webapp\model\Appointment.class
